@@ -6,3 +6,6 @@
 [delete]>[lalt]
 [bspace]>[lctrl]
 [rwin]>[ralt]
+[lctrl]>[bspace]
+[lalt]>[delete]
+[rctrl]>[ralt]
